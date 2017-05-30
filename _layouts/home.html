@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div>
+  <ul>
+    {% for term in site.terms %}
+      <li>
+        <a href="{{ term.url }}">{{ term.title }}</a>
+        <small>{{ term.action }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
