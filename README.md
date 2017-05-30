@@ -1,4 +1,6 @@
 # The Cloud Glossary
+http://glossary.cfapps.io
+
 A glossary of terms for cloud technologies and Cloud Foundry.
 
 ## Adding a new term
