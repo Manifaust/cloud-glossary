@@ -15,10 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: The Cloud Glossary
 description: > # this means to ignore newlines until "baseurl:"
-  Unfamiliar acronyms and industry jargon are thrown around all the time
-  in our cloudy world. New made up words are constantly introduced in
-  meetings without being explained. This site cannot solve these problems,
-  but at least now there is a place where you can look it all up.
+  Unfamiliar acronyms and industry jargon getting you down? Stuck in meetings filled
+  with made up words? This site cannot solve these problems, but at least now there
+  is a place where you can look it all up.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
