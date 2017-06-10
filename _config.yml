@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   with made up words? This site cannot solve these problems, but at least now there
   is a place where you can look it all up.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "htts://glossary.cfapps.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://glossary.cfapps.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
