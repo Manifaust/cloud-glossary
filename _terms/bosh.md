@@ -1,6 +1,6 @@
 ---
 title: BOSH
-action: help me use clouds effectively
+action: help me use infrastructure effectively
 ---
 
 BOSH is a tool chain for distributing, deploying, and managing software on [VMs](/virtual-machine/). It is suitable for distributed, highly available software that has to support multiple [IaaSes](/infrastructure-as-a-service/) or [clouds](/cloud/). BOSH's job is to manage and monitor VMs while removing the gritty details away from the infrastructure owner. It is an important component of [Cloud Foundry](/cloud-foundry/).
