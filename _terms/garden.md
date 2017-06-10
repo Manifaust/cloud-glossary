@@ -3,7 +3,7 @@ title: Garden
 action: create, destroy, and control containers
 ---
 
-Garden is Go client, server, and implementable API for creating and managing containers. It relies on pluggable backends that implement its interface. It is the containerization layer used by Diego.
+Garden is the [container](/container/) manager for [Cloud Foundry](/cloud-foundry/). It's made up of a Golang client, server, and implementable API for creating and managing containers. Garden relies on pluggable backends that implement its interface. It is the containerization layer used by Diego.
 
 > These interfaces contain methods to perform the following actions:
 > * Create and delete containers
