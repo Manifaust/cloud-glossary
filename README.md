@@ -14,3 +14,10 @@ action: does a thing (keep this short)
 
 A [container](/container/) runtime that looks through your trash directory for resources
 ```
+
+## Deploy
+
+```
+jekyll build
+cf push <app_name> -p _site
+```
