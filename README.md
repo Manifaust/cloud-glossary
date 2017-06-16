@@ -15,6 +15,13 @@ action: does a thing (keep this short)
 A [container](/container/) runtime that looks through your trash directory for resources
 ```
 
+To preview your changes, run Jekyll:
+
+```
+$ gem install jekyll bundler
+$ bundle exec jekyll serve
+```
+
 ## Deploy
 
 ```

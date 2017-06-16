@@ -3,4 +3,4 @@ title: VM
 action: virtual machine
 ---
 
-[Virtual machine](/virtual-machine/)
+See [virtual machine](/virtual-machine/)

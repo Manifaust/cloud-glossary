@@ -3,4 +3,4 @@ title: CI
 action: continuous integration
 ---
 
-[Continuous integration](/continuous-integration/)
+See [continuous integration](/continuous-integration/)

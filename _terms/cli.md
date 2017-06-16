@@ -3,4 +3,4 @@ title: CLI
 action: command line interface
 ---
 
-[Command line interface](/command-line-interface/)
+See [command line interface](/command-line-interface/)
