@@ -18,11 +18,11 @@ Distributed systems need a lot more management than regular simple apps. Here’
 BOSH takes care of these requirements. It’s implemented using several components:
 
 * Director
-* Agent (a process running on each VM)
+* [Agent](/bosh-agent/) (a process running on each VM)
 * [Health Monitor](/health-monitor/)
 * [Stemcells](/stemcell/)
-* CLI
+* [CLI](/cli/) - the app you use to send commands to the Director
 * CPI
 * BOSH release (software and configuration in a package that BOSH can deploy)
 
-The agent is responsible for reporting to the director. It configures the VM as specified by the user, and manages jobs that run on the VM, and other tasks.
+The agent is responsible for reporting to the Director. It configures the VM as specified by the user, and manages jobs that run on the VM, and other tasks.
