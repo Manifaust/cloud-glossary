@@ -7,15 +7,13 @@ Also known as CF. An open source platform for deploying apps and services where 
 
 CF manages a lot of problem related to deploying software on the [cloud](/cloud):
 
-* automatically recovering from crashes at the process, container, and VM levels
+* automatically recovering from crashes at the process, [container](/container/), and [VM](/virtual-machine/) levels
 * running your app in a container
 * supporting different [IaaSes](/infrastructure-as-a-service/)
-* scaling scaling an app when it gets popular
-* updating service with security patches
-* updating passwords accross many services and apps
+* scaling an app when it gets popular
+* updating services with security patches
+* updating passwords across many services and apps
 * exposing services to other users in the platform
 * lots of other stuff
 
-See also:
-* [BOSH](/bosh/) - CF component used to provision and manage infrastructure
-* [Garden](/garden/) - CF component used to manage containers
+CF is a solution to many challenges faced by [DevOps](/devops/).
