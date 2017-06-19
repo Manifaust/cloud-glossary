@@ -7,4 +7,4 @@ DevOps is the name attached to the commitment and efforts across different indus
 
 Companies are updating their tools in order to create and deliver faster. Futhermore, they are evolving their culture to allow teams across the organization to communicate better, iterate more, and make data-driven decisions more quickly. These tools and culture are called DevOps as well.
 
-Because DevOps involves so many elements, a platform like [Clound Foundry](/cloud-foundry/) - which aims to tackle the challenges present in DevOps - has to solve many problems at once. This is why both topics, when explained generally can seem too abstract, and when explained in specifics can involve many pieces.
+Because DevOps involves so many elements, a platform like [Cloud Foundry](/cloud-foundry/) - which aims to tackle the challenges present in DevOps - has to solve many problems at once. This is why both topics, when explained generally can seem too abstract, and when explained in specifics can involve many pieces.
